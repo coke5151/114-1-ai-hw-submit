@@ -1,7 +1,7 @@
 # AI_term_project
 【人工智慧】期末作業
 
-> 可以在 Github 上面[查看本專案](https://github.com/coke5151/114-1-ai-hw-submit-main)
+> 可以在 Github 上面[查看本專案](https://github.com/coke5151/114-1-ai-hw-submit)
 
 ## 開發環境
 1. 初次使用請先同步環境（電腦裡沒 uv 的[去安裝一下](https://docs.astral.sh/uv/guides/install-python/)）
